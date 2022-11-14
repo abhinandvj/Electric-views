@@ -26,8 +26,8 @@ export default function Header() {
       <section class="header-box">
         <a href="/">
           <div class="header">
-            <span class="electric">Electric</span>
-            <span class="views">Views</span>
+            <span class="electric">Melody</span>
+            <span class="views">  Rhythm</span>
           </div>
         </a>
         <div class="header-links">
